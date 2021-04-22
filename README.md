@@ -5,7 +5,7 @@
 
 ## Installation
 
-WIP
+To install this software, navigate over to the Releases tab and download the latest version. Once you have extracted the ZIP, open RobloxStudioBeta and you're ready to go!
 
 ## Screenshots
 ![f4f20087985c28e9b25443e632c7f8b6](https://user-images.githubusercontent.com/82979680/115670325-2620aa80-a2fe-11eb-99bd-d81849ca95c0.png)
